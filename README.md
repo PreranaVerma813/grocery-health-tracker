@@ -1,5 +1,3 @@
-# grocery-health-tracker
-Grocery health tracker helps to buy healthy grocery over less healthy according to carbs and saturated fats count. Also it helps to maintain monthly grocery spending trend and other features.
 # 🧾 Grocery Health Tracker Dashboard
 
 An Excel-based interactive dashboard that tracks grocery items, nutritional values, and healthy spending trends.
@@ -13,3 +11,4 @@ An Excel-based interactive dashboard that tracks grocery items, nutritional valu
 📁 File: `Grocery_Health_Dashboard.xlsx`
 
 📊 Tools Used: Microsoft Excel (PivotTables, Charts, Conditional Formatting)
+
